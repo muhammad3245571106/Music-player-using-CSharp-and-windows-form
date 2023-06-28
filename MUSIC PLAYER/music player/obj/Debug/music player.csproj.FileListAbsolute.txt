@@ -1,0 +1,60 @@
+A:\VISUAL STUDIO\music player\music player\bin\Debug\music player.exe.config
+A:\VISUAL STUDIO\music player\music player\bin\Debug\music player.exe
+A:\VISUAL STUDIO\music player\music player\bin\Debug\music player.pdb
+A:\VISUAL STUDIO\music player\music player\bin\Debug\Interop.WMPLib.dll
+A:\VISUAL STUDIO\music player\music player\bin\Debug\AxInterop.WMPLib.dll
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.csproj.SuggestedBindingRedirects.cache
+A:\VISUAL STUDIO\music player\music player\obj\Debug\Interop.WMPLib.dll
+A:\VISUAL STUDIO\music player\music player\obj\Debug\AxInterop.WMPLib.dll
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.csproj.ResolveComReference.cache
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music_player.Form1.resources
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music_player.Properties.Resources.resources
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.csproj.GenerateResource.cache
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.csproj.CoreCompileInputs.cache
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.exe
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.pdb
+A:\VISUAL STUDIO\music player\music player\bin\Debug\System.Numerics.Vectors.dll
+A:\VISUAL STUDIO\music player\music player\bin\Debug\System.Numerics.Vectors.xml
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.csproj.CopyComplete
+A:\VISUAL STUDIO\music player\music player\obj\Debug\music player.csproj.AssemblyReference.cache
+A:\VISUAL STUDIO\music player\music player\bin\Debug\taglib-sharp.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.AssemblyReference.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.SuggestedBindingRedirects.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\Interop.WMPLib.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\AxInterop.WMPLib.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.ResolveComReference.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music_player.Form1.resources
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music_player.Properties.Resources.resources
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.GenerateResource.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.CoreCompileInputs.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.exe
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.pdb
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\music player.exe.config
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\music player.exe
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\music player.pdb
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\System.Numerics.Vectors.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\taglib-sharp.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\System.Numerics.Vectors.xml
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\Interop.WMPLib.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\AxInterop.WMPLib.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.CopyComplete
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\music player.exe.config
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\music player.exe
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\music player.pdb
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\System.Numerics.Vectors.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\taglib-sharp.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\System.Numerics.Vectors.xml
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\Interop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\bin\Debug\AxInterop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.AssemblyReference.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.SuggestedBindingRedirects.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\Interop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\AxInterop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.ResolveComReference.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music_player.Form1.resources
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music_player.Properties.Resources.resources
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.GenerateResource.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.CoreCompileInputs.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.csproj.CopyComplete
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.exe
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\music player\music player\obj\Debug\music player.pdb
