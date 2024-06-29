@@ -1,4 +1,4 @@
-# Music-player-using-CSharp-and-windows-form
+# Music player using CSharp and windows form
 This is an application developed using C# and Windows form.
 This music player has functionalities like
 * Making playlists
